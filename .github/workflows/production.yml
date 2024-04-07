@@ -51,4 +51,3 @@ jobs:
           push: true
           tags: anneryshc/devopdemo:latest
 
-          # Add other relevant build parameters here
